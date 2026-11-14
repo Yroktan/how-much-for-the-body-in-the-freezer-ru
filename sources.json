@@ -1,0 +1,19 @@
+{
+  "appid": 4645760,
+  "buildid": 23449904,
+  "files": {
+    "How Much for the Body in the Freezer_Data/data.unity3d": "bcf866048278872b1516d0af08b1914c700f01651a0cacd03d958d2c51d983d9",
+    "How Much for the Body in the Freezer_Data/StreamingAssets/aa/catalog.bin": "7070acd7e85728fcf101cd1746a21e26833dcf8b8d9e501532a6cc354da1eedc",
+    "How Much for the Body in the Freezer_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_2f97bf5b1fd26d45bc0cfc9dbf4a3ae1.bundle": "ed6070a34f1569f8ab6064c7cacb3a7d99622479ce126f185704481706e61c19"
+  },
+  "fonts": {
+    "GenWanMin-M.ttc": {
+      "sha256": "ccba1dc8808471dfb7ddd149ff23ea71d49d4343808883a3486509216f385c98",
+      "url": "https://raw.githubusercontent.com/ButTaiwan/genwan-font/v1.501/ttc/GenWanMin-M.ttc"
+    },
+    "GenWanMin-L.ttc": {
+      "sha256": "f428cb1c7d7c850cc8e0373669fc229398a3829fe09b6a54d10d32e1677b8251",
+      "url": "https://raw.githubusercontent.com/ButTaiwan/genwan-font/v1.501/ttc/GenWanMin-L.ttc"
+    }
+  }
+}

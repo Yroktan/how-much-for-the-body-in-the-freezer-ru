@@ -1,0 +1,16 @@
+GenWanMin, версия 1.501
+https://github.com/ButTaiwan/genwan-font/tree/v1.501
+Лицензия SIL Open Font License 1.1: licenses/GENWANMIN-OFL.txt
+Шрифты используются для добавления кириллицы с сохранением исходной гарнитуры.
+
+xdelta3, версия 3.2.2
+https://github.com/jmacd/xdelta/releases/tag/v3.2.2
+Copyright Joshua MacDonald and contributors.
+Лицензия Apache 2.0: licenses/XDELTA-LICENSE.txt
+В ZIP включён неизменённый xdelta3.exe из официального Windows x86_64-дистрибутива.
+
+UnityPy, версия 1.25.4
+https://github.com/K0lb3/UnityPy
+Используется при сборке. Устанавливается отдельно через requirements.txt; в установщик не включён.
+
+Игра, её сценарий и иллюстрации принадлежат их правообладателям. Для применения патча необходима установленная оригинальная игра.

@@ -1,0 +1,6 @@
+fonts/
+build/
+.venv/
+__pycache__/
+*.xdelta
+*.zip

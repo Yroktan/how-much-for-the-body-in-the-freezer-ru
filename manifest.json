@@ -1,0 +1,25 @@
+{
+  "version": "0.1.0",
+  "appid": 4645760,
+  "buildid": 23449904,
+  "files": [
+    {
+      "path": "How Much for the Body in the Freezer_Data/data.unity3d",
+      "source_sha256": "bcf866048278872b1516d0af08b1914c700f01651a0cacd03d958d2c51d983d9",
+      "target_sha256": "5f4ef06e8dcb9e018bf29eea70a74f44b66e8442351ea0622585d5e6487fe62d",
+      "patch": "payload/0.xdelta"
+    },
+    {
+      "path": "How Much for the Body in the Freezer_Data/StreamingAssets/aa/catalog.bin",
+      "source_sha256": "7070acd7e85728fcf101cd1746a21e26833dcf8b8d9e501532a6cc354da1eedc",
+      "target_sha256": "be7c569d7c61cfcf08aa3528bfd2cfc216af521747484c7aa4fc548f02f55993",
+      "patch": "payload/1.xdelta"
+    },
+    {
+      "path": "How Much for the Body in the Freezer_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_2f97bf5b1fd26d45bc0cfc9dbf4a3ae1.bundle",
+      "source_sha256": "ed6070a34f1569f8ab6064c7cacb3a7d99622479ce126f185704481706e61c19",
+      "target_sha256": "67336d1a66a9797f569b44c1cbcb82916fbc554301f62e6d3ce206551d771c69",
+      "patch": "payload/2.xdelta"
+    }
+  ]
+}
