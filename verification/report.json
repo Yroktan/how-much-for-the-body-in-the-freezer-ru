@@ -13,5 +13,7 @@
   "visual_review": "Selected frames inspected; full manual visual review pending.",
   "chapter_caption_count": 14,
   "chapter_caption_overflow": [],
-  "source_builder_verified": true
+  "source_builder_verified": true,
+  "installer_install_verify_uninstall_roundtrip": "passed",
+  "ui_labels_visual_smoke_check": "passed"
 }
